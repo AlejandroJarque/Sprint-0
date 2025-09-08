@@ -1,2 +1,2 @@
 # Sprint-0
-Ejercicios del Sprint 0
+Task for Sprint 0
