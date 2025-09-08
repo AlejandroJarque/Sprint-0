@@ -1,14 +1,14 @@
 h1{
-    color: purple;
+    color: rgb(75, 2, 2);
     text-align: center;
 }
 
 h2{
-    color: blueviolet;
+    color: rgb(145, 5, 5);
     text-align: center;
 }
 
 p{
-    color: palevioletred;
+    color: red;
     text-align: center;
 }
